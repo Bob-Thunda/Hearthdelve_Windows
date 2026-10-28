@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "file": "Hearthdelve_Windows_v1.2.0.zip",
-  "sha256": "08f68d17808b73d2d9e283495f2eed40621d1831b47d1357e0fdc8b11f47ab4d",
-  "notes": "Genfødsel starter helten helt forfra (alt lægges i Arvekisten), Prestige-ting kun for helte med samme prestigeniveau, og prestigemærker (Bronze til Legende) over heltens hoved."
+  "version": "1.3.0",
+  "file": "Hearthdelve_Windows_v1.3.0.zip",
+  "sha256": "196e76181fe292836f1aa472dc830c4b3388850470f2bc7017c094941823e6b6",
+  "notes": "Monstrene er nu altid lige så stærke som din helt + 10 % (liv, skade og rustning) — også på de lave etager og for høje niveauer. I co-op måler de sig mod holdets gennemsnit."
 }
