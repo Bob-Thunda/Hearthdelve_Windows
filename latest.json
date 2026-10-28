@@ -1,6 +1,6 @@
 {
-  "version": "0.9.6",
-  "file": "Hearthdelve_Windows_v0.9.6.zip",
-  "sha256": "206458b463256f0efd639722276d385b94e20211c14f4ef725d8272f0495ed91",
-  "notes": "Værten hoster selv: spillet åbner porten i routeren og giver en invitationskode. Ingen server-program."
+  "version": "1.0.0",
+  "file": "Hearthdelve_Windows_v1.0.0.zip",
+  "sha256": "462eac64cdde112580a41fe18fa3c8d735817ae1954171a663b0ab49f88ca0fc",
+  "notes": "v1.0: Engelsk/dansk, Helvede (Natas), Himmeltrappen (nonnerne), prestige med underklasser og raidet Dragens Hule."
 }
