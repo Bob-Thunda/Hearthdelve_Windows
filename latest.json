@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "file": "Hearthdelve_Windows_v1.4.0.zip",
-  "sha256": "dd33b5319b462d34e96af17251ad30202cd41d5817c8e9632cacb8d3530d9276",
-  "notes": "Monstrene angriber 20 % hurtigere pr. etage, nogle etager har en flok elitemonstre eller en kæmpe mester, rummene er dobbelt så store med flere monstre, og bosserne er seje igen. Monstrene vokser til fuld styrke (helten + 10 %) frem mod etage 10."
+  "version": "1.5.0",
+  "file": "Hearthdelve_Windows_v1.5.0.zip",
+  "sha256": "22c319ba7ed1869752673e623fc3414f1886176861b85eda457be6fcf21f73fc",
+  "notes": "Kæledyrene vokser med helten (15 % af heltens liv, skade og rustning oven i evnen), og jægerens ulv og helvedeshunde er blevet til rotter: Rottekald og Helvedesrotter."
 }
