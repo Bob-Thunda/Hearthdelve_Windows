@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "file": "Hearthdelve_Windows_v1.5.0.zip",
-  "sha256": "22c319ba7ed1869752673e623fc3414f1886176861b85eda457be6fcf21f73fc",
-  "notes": "Kæledyrene vokser med helten (15 % af heltens liv, skade og rustning oven i evnen), og jægerens ulv og helvedeshunde er blevet til rotter: Rottekald og Helvedesrotter."
+  "version": "1.5.1",
+  "file": "Hearthdelve_Windows_v1.5.1.zip",
+  "sha256": "a876b0049f5f740fc751099650f2ddad45e3073b5fd604b2b877915ae19b4719",
+  "notes": "Multiplayer: spillet viser nu den rigtige IP-adresse, en invitationskode virker også i samme hus, og fejlbeskederne forklarer hvorfor (fx forskellige versioner). Genfødsel bryder blodpagten."
 }
