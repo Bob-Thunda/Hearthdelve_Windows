@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "file": "Hearthdelve_Windows_v1.0.0.zip",
-  "sha256": "462eac64cdde112580a41fe18fa3c8d735817ae1954171a663b0ab49f88ca0fc",
-  "notes": "v1.0: Engelsk/dansk, Helvede (Natas), Himmeltrappen (nonnerne), prestige med underklasser og raidet Dragens Hule."
+  "version": "1.0.1",
+  "file": "Hearthdelve_Windows_v1.0.1.zip",
+  "sha256": "ef737b37c73be0775a554f09898189bf72eed271861b3bb97aacacf528907ba1",
+  "notes": "v1.0.1: Satan er Helvedes sidste boss (lige så svær som Jesus, men anderledes), og der er ingen checkpoints i Helvede og Himmeltrappen."
 }
