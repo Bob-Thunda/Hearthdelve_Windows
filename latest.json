@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "file": "Hearthdelve_Windows_v1.0.1.zip",
-  "sha256": "ef737b37c73be0775a554f09898189bf72eed271861b3bb97aacacf528907ba1",
-  "notes": "v1.0.1: Satan er Helvedes sidste boss (lige så svær som Jesus, men anderledes), og der er ingen checkpoints i Helvede og Himmeltrappen."
+  "version": "1.0.2",
+  "file": "Hearthdelve_Windows_v1.0.2.zip",
+  "sha256": "d9c8d880d61a0227f733f961f739057cfabf705886b351ed2b72ad7125f3457d",
+  "notes": "v1.0.2: Det er nok at have et relikvie for at låse Helvede/Himmeltrappen op, og Guldkammeret og Regnbuehulen er endnu sjældnere."
 }
