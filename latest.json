@@ -1,6 +1,6 @@
 {
-  "version": "1.6.2",
-  "file": "Hearthdelve_Windows_v1.6.2.zip",
-  "sha256": "80c9d1b4e5d3f9c302cf3c005678863c357873c48f30e9d4db70ba5166e39a17",
-  "notes": "Wikien (dropchancer, monstre, ting, opskrifter) kommer nu med, når spillet opdaterer sig selv. Åbn den fra Esc-menuen."
+  "version": "1.6.3",
+  "file": "Hearthdelve_Windows_v1.6.3.zip",
+  "sha256": "9564041545edf286421179ca6a4e448f399252b1068105d0a513013d1cae70e0",
+  "notes": "The game now starts in English by default (a language you chose yourself is kept). Spillet starter nu på engelsk — dit eget valg af sprog bliver gemt."
 }
