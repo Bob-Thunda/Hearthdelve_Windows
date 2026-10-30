@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "file": "Hearthdelve_Windows_v1.7.0.zip",
-  "sha256": "fb81f2e2d79732c0e95e7b268c4f99f6ee65d94543671d10f0185193858a1eae",
-  "notes": "Defensive skills on F for every class, new hand-made weapons and icons, and ordinary monsters speed up less per floor."
+  "version": "1.8.0",
+  "file": "Hearthdelve_Windows_v1.8.0.zip",
+  "sha256": "96672745557b40057272c4e3d29c90d3d3ac3fbf8031aff96e987da328b5a8f1",
+  "notes": "Rustning på kroppen, ny grafik i hele spillet, monstrene følger nu dit niveau i stedet for dit udstyr, og stærkere talenter."
 }
