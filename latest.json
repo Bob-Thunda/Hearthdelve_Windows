@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
-  "file": "Hearthdelve_Windows_v1.9.2.zip",
-  "sha256": "a3676f3116927c2871981cbdf8405aee7a26252d8ecb96f7e712545b900c9128",
-  "notes": "Rettelser: heltene ved bålet kigger ind mod ilden, bålet er bygget om, og husenes tage vender rigtigt."
+  "version": "1.9.3",
+  "file": "Hearthdelve_Windows_v1.9.3.zip",
+  "sha256": "d5adf45c52879f249a7bc6b4b61e8ee9ff35c42611b49249196935a7c0d45810",
+  "notes": "Undvigelsen går nu lige igennem monstrene, så du ikke kan blive fanget."
 }
