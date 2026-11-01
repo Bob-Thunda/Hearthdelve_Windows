@@ -1,6 +1,6 @@
 {
-  "version": "1.9.4",
-  "file": "Hearthdelve_Windows_v1.9.4.zip",
-  "sha256": "e8c57513f3a5c290873c820c488b5c1107bfc2ce1be12030c4ee687cc3f005da",
-  "notes": "Monstrene opdager dig på længere afstand, og dine kæledyr går efter monstre længere væk."
+  "version": "1.9.5",
+  "file": "Hearthdelve_Windows_v1.9.5.zip",
+  "sha256": "71d955404824ac48b9376255a65f28811b1c05e7101c5b2713ec7d90fe5c2af6",
+  "notes": "Dine kæledyr står ikke længere oven i hinanden."
 }
