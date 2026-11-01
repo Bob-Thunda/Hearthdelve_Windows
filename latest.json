@@ -1,6 +1,6 @@
 {
-  "version": "1.9.6",
-  "file": "Hearthdelve_Windows_v1.9.6.zip",
-  "sha256": "833d1106ca9a1c72e82f03ecccc3811ca9031a3f24da3ab963f58f39bc997694",
-  "notes": "Krigstågen er nu mørk, drivende tåge med bløde kanter, og skattekisterne lyser gyldent."
+  "version": "1.10.0",
+  "file": "Hearthdelve_Windows_v1.10.0.zip",
+  "sha256": "cdde8b9179d822f44945c4f72cb6262727e0a39176fc67eeb57966a571fe55f1",
+  "notes": "Lejere og lejeboliger, landet kan udvides 3 gange, 16 nye skjulte samlerting, leprechaunen løber ikke gennem vægge, og den engelske udgave er gennemgået."
 }
