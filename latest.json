@@ -1,6 +1,6 @@
 {
-  "version": "1.9.5",
-  "file": "Hearthdelve_Windows_v1.9.5.zip",
-  "sha256": "71d955404824ac48b9376255a65f28811b1c05e7101c5b2713ec7d90fe5c2af6",
-  "notes": "Dine kæledyr står ikke længere oven i hinanden."
+  "version": "1.9.6",
+  "file": "Hearthdelve_Windows_v1.9.6.zip",
+  "sha256": "833d1106ca9a1c72e82f03ecccc3811ca9031a3f24da3ab963f58f39bc997694",
+  "notes": "Krigstågen er nu mørk, drivende tåge med bløde kanter, og skattekisterne lyser gyldent."
 }
