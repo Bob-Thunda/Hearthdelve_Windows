@@ -1,6 +1,6 @@
 {
-  "version": "1.10.1",
-  "file": "Hearthdelve_Windows_v1.10.1.zip",
-  "sha256": "9c8be8b6f7ff7407d7629f17499e7aae1fe812552ff6bf6ad4430b0c6ce8ddc3",
-  "notes": "Auraer stabler: flere ting med samme aura ganger virkning og område. Nedbrudsrapport, hvis spillet lukker uventet. Leprechaunen dukker oftere op."
+  "version": "1.10.2",
+  "file": "Hearthdelve_Windows_v1.10.2.zip",
+  "sha256": "de96409afdbe4246b701131ce6aa8fd555dbda62d297e4657a85053ced6fe419",
+  "notes": "Alt udstyr fylder nu 2 felter lodret i rygsækken og kisten. Amuletter og ringe fylder 1."
 }
