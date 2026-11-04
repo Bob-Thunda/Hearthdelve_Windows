@@ -1,6 +1,8 @@
 {
-  "version": "1.12.3",
-  "file": "Hearthdelve_Windows_v1.12.3.zip",
-  "sha256": "19cf21e4607bfb29e86c799f98eb413c5389c2773fd83ffcb33746aea424f8f9",
-  "notes": "Send fejlrapporter direkte til spillets Discord fra Esc → Hændelseslog. Alle logfiler sendes samlet, og logmappen ryddes bagefter."
+  "version": "1.12.4",
+  "file": "Hearthdelve_Windows_v1.12.4.zip",
+  "sha256": "2c7e96d63e72c7d2c2f3f2bff16665e726cc7564a2d82c7f101b8aefbc2aad47",
+  "whole": true,
+  "parts": ["Hearthdelve_Windows_v1.12.4.zip.001","Hearthdelve_Windows_v1.12.4.zip.002","Hearthdelve_Windows_v1.12.4.zip.003","Hearthdelve_Windows_v1.12.4.zip.004","Hearthdelve_Windows_v1.12.4.zip.005","Hearthdelve_Windows_v1.12.4.zip.006","Hearthdelve_Windows_v1.12.4.zip.007"],
+  "notes": "Opdateringer virker nu også på langsomme forbindelser. Hændelsesloggen skriver en kort status fra etagen."
 }
