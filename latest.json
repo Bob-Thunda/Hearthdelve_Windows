@@ -1,8 +1,8 @@
 {
-  "version": "1.12.4",
-  "file": "Hearthdelve_Windows_v1.12.4.zip",
-  "sha256": "2c7e96d63e72c7d2c2f3f2bff16665e726cc7564a2d82c7f101b8aefbc2aad47",
+  "version": "1.12.5",
+  "file": "Hearthdelve_Windows_v1.12.5.zip",
+  "sha256": "f29a951d434ad533d2f8a6cd91fedf6dea82a7470ad16982031f522f94128ef2",
   "whole": true,
-  "parts": ["Hearthdelve_Windows_v1.12.4.zip.001","Hearthdelve_Windows_v1.12.4.zip.002","Hearthdelve_Windows_v1.12.4.zip.003","Hearthdelve_Windows_v1.12.4.zip.004","Hearthdelve_Windows_v1.12.4.zip.005","Hearthdelve_Windows_v1.12.4.zip.006","Hearthdelve_Windows_v1.12.4.zip.007"],
-  "notes": "Opdateringer virker nu også på langsomme forbindelser. Hændelsesloggen skriver en kort status fra etagen."
+  "parts": ["Hearthdelve_Windows_v1.12.5.zip.001","Hearthdelve_Windows_v1.12.5.zip.002","Hearthdelve_Windows_v1.12.5.zip.003","Hearthdelve_Windows_v1.12.5.zip.004","Hearthdelve_Windows_v1.12.5.zip.005","Hearthdelve_Windows_v1.12.5.zip.006","Hearthdelve_Windows_v1.12.5.zip.007"],
+  "notes": "Rettet: spillet kunne gå ned ved portalen til Lepreconland. / Fixed: the game could crash at the portal to Lepreconland."
 }
