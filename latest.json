@@ -1,6 +1,6 @@
 {
-  "version": "1.12.2",
-  "file": "Hearthdelve_Windows_v1.12.2.zip",
-  "sha256": "867083adc12d6f6ae02abb1c773eba8db62ab244a4503c84ed2711774edfa1b9",
-  "notes": "Et nedbrud under et dyk koster ikke længere dine ting, og spillet gemmer på hver ny etage."
+  "version": "1.12.3",
+  "file": "Hearthdelve_Windows_v1.12.3.zip",
+  "sha256": "19cf21e4607bfb29e86c799f98eb413c5389c2773fd83ffcb33746aea424f8f9",
+  "notes": "Send fejlrapporter direkte til spillets Discord fra Esc → Hændelseslog. Alle logfiler sendes samlet, og logmappen ryddes bagefter."
 }
